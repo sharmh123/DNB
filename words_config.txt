@@ -1,0 +1,10 @@
+baseDir: /Users/himash/testcodes/src/Testcodes/src/resources/DNB/words
+exerciseLength: 15
+n-back: 5
+interference: false
+interference-level: 1
+dualNBack: false
+inputFile: CommonWordsOnly.txt
+outputFile: DNBGameOutputFile.txt
+inputComparisonFile: inputComparisonFile.txt
+outputHistoryFile: DNBGameOutputHistoryFile.txt

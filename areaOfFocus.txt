@@ -1,0 +1,3 @@
+fileName = scala-higher-order-functions
+startIndex = 0
+endIndex = 10
